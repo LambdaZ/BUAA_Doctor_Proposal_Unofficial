@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.log
+*.aux
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
